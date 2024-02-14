@@ -1,2 +1,2 @@
-# .github
-About Rebel
+# Rebel
+Natural speech
